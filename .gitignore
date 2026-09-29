@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+.env
+*.log
+
+# Loose duplicates of the site files (kept locally, not published)
+/app.js
+/config.js
+/styles.css
+/PRODUCTION_GUIDE.md
+/hospital-booking/
+hospital-booking.zip
